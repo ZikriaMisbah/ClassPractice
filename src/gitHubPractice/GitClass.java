@@ -1,4 +1,4 @@
-package newProjectForGitHub;
+package gitHubPractice;
 
 public class GitClass {
 
